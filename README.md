@@ -1,2 +1,3 @@
-# syncback
-the app that will update others repo
+# sync back
+
+The POC app to test GitHub Apps and GitHub integration
